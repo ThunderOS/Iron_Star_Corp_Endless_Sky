@@ -1,0 +1,73 @@
+government "Altairian"
+	swizzle 0
+	"player reputation" 10
+	"attitude toward"
+		"Iron_Star" 100
+		"Pharmakon" 100
+		"Umbra" 100
+		"Valkyrie" 100
+	"friendly hail" "whats up"
+	"friendly disabled hail" "please help"
+	"hostile hail" "Die"
+	"hostile disabled hail" "go away"
+	raid "Altairian Bounty Hunters"
+
+
+government "Iron Star"
+	swizzle 0
+	"player reputation" 10
+	"attitude toward"
+		"Altairian" 100
+		"Pharmakon" 100
+		"Umbra" 100
+		"Valkyrie" 100
+	"friendly hail" "whats up"
+	"friendly disabled hail" "please help"
+	"hostile hail" "Die"
+	"hostile disabled hail" "go away"
+	raid "Iron Star Bounty Hunters"
+
+
+government "Pharmakon"
+	swizzle 0
+	"player reputation" 10
+	"attitude toward"
+		"Altairian" 100
+		"Iron_Star" 100
+		"Umbra" 100
+		"Valkyrie" 100
+	"friendly hail" "whats up"
+	"friendly disabled hail" "please help"
+	"hostile hail" "Die"
+	"hostile disabled hail" "go away"
+	raid "Pharmakon Bounty Hunters"
+
+
+government "Umbra"
+	swizzle 0
+	"player reputation" 10
+	"attitude toward"
+		"Altairian" 100
+		"Iron_Star" 100
+		"Pharmakon" 100
+		"Valkyrie" 100
+	"friendly hail" "whats up"
+	"friendly disabled hail" "please help"
+	"hostile hail" "Die"
+	"hostile disabled hail" "go away"
+	raid "Umbra Bounty Hunters"
+
+
+government "Valkyrie"
+	swizzle 0
+	"player reputation" 10
+	"attitude toward"
+		"Altairian" 100
+		"Iron_Star" 100
+		"Pharmakon" 100
+		"Umbra" 100
+	"friendly hail" "whats up"
+	"friendly disabled hail" "please help"
+	"hostile hail" "Die"
+	"hostile disabled hail" "go away"
+	raid "Valkyrie Bounty Hunters"
