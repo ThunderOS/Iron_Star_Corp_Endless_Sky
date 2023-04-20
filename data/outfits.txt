@@ -1,0 +1,36 @@
+# Copyright (c) 2014 by Michael Zahniser
+#
+# Endless Sky is free software: you can redistribute it and/or modify it under the
+# terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later version.
+#
+# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE. See the GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <https://www.gnu.org/licenses/>.
+
+outfit "Void_Shell"
+	category "Systems"
+	cost 1000000
+	thumbnail "Outfit/Sheilds/Void_Shell"
+	"mass" 30
+	"outfit space" -30
+	"shield generation" 4
+	"shield energy" 4
+	"energy consumption" .5
+	"heat generation" 5
+	description "The Void_Shell Shield Regenerator is a hyper advanced form of shield generation technology. It is mainly used on small to mid size craft."
+
+outfit "Void_Circuit"
+	category "Systems"
+	cost 2000000
+	thumbnail "Outfit/Sheilds/Void_Circuit"
+	"mass" 60
+	"outfit space" -60
+	"shield generation" 10
+	"shield energy" 10
+	"energy consumption" .7
+	"heat generation" 7
+	description "The Void_Circuit Shield Regenerator is a hyper advanced form of shield generation technology. It is maily used on large craft."
